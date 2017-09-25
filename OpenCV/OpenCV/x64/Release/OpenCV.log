@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+main.cpp(34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека F:\Git\UnityOpenCV\OpenCV\x64\Release\OpenCV.lib и объект F:\Git\UnityOpenCV\OpenCV\x64\Release\OpenCV.exp
+  Создание кода
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OpenCV.vcxproj -> F:\Git\UnityOpenCV\OpenCV\x64\Release\OpenCV.dll
+  OpenCV.vcxproj -> F:\Git\UnityOpenCV\OpenCV\x64\Release\OpenCV.pdb (Full PDB)
